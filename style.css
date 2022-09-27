@@ -486,6 +486,7 @@ color: rgb(120, 120, 120);
     }
     .testimonial-content img{
         width: 30% !important;
+        top: -55px;
     }
     #pricing .card3{
         position: relative;
