@@ -484,6 +484,9 @@ color: rgb(120, 120, 120);
     .img1 img,.layer2{
         width: 75% !important;
     }
+    .testimonial-content img{
+        width: 30% !important;
+    }
     #pricing .card3{
         position: relative;
         width: 100%;
